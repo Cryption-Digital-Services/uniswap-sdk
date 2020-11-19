@@ -1,4 +1,10 @@
-# Uniswap SDK
+# Uniswap SDK for quickswap
+
+```
+changed factory address to'0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32'
+changed init code hash to '0xbab145d02e7005f0d84c6c1639d39b799b0ea16df99ebbdaf5a14d9da820b4e0'
+created a chanid as MATIC for matic mainnet and matic weth is equal to 0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619
+```
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/Uniswap/uniswap-sdk/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-sdk)
